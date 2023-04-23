@@ -1,4 +1,4 @@
-package FirstStepsTraining;
+package L01_FirstStepsTraining;
 
 public class HelloSoftUni_01 {
 

@@ -1,4 +1,4 @@
-package FirstStepsTraining;
+package L01_FirstStepsTraining;
 
 public class NumsFromOneToTen_02 {
     public static void main(String[] args) {

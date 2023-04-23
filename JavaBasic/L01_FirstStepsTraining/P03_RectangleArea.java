@@ -1,4 +1,4 @@
-package FirstStepsTraining;
+package L01_FirstStepsTraining;
 import java.util.Scanner;
 public class RectangleArea_03 {
 
