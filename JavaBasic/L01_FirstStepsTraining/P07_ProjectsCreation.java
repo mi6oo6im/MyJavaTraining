@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class ProjectsCreation_07 {
+public class P07_ProjectsCreation {
 
     public static void main(String[] args) {
 

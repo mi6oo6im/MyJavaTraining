@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class YardGreening_09 {
+public class P09_YardGreening {
 
     public static void main(String[] args) {
 

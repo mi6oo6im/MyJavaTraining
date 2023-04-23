@@ -1,6 +1,6 @@
 package L01_FirstStepsTraining;
 
-public class HelloSoftUni_01 {
+public class P01_HelloSoftUni {
 
     public static void main(String[] args) {
 

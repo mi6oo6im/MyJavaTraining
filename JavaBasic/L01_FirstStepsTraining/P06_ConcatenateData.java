@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class ConcatenateData_06 {
+public class P06_ConcatenateData {
 
     public static void main(String[] args) {
 

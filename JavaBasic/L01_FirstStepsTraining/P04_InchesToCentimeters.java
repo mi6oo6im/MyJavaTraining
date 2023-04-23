@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class InchesToCentimeters_04 {
+public class P04_InchesToCentimeters {
 
     public static void main(String[] args) {
 

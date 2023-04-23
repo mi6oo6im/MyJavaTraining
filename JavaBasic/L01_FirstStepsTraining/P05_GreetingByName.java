@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class GreetingByName_05 {
+public class P05_GreetingByName {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 

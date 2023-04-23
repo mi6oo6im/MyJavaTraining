@@ -1,6 +1,6 @@
 package L01_FirstStepsTraining;
 
-public class NumsFromOneToTen_02 {
+public class P02_NumsFromOneToTen {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(2);

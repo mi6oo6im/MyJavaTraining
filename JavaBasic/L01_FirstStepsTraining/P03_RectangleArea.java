@@ -1,6 +1,6 @@
 package L01_FirstStepsTraining;
 import java.util.Scanner;
-public class RectangleArea_03 {
+public class P03_RectangleArea {
 
     public static void main(String[] args) {
 

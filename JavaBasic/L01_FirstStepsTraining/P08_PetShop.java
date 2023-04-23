@@ -2,7 +2,7 @@ package L01_FirstStepsTraining;
 
 import java.util.Scanner;
 
-public class PetShop_08 {
+public class P08_PetShop {
 
     public static void main(String[] args) {
 
