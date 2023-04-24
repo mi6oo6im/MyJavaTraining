@@ -1,2 +1,2 @@
-# First Steps in Programming Exercise
-### Judge: https://judge.softuni.org/Contests/Compete/Index/2388#0
+# First Steps in Programming More Exercise
+### Judge: https://judge.softuni.org/Contests/Practice/Index/1642#0
