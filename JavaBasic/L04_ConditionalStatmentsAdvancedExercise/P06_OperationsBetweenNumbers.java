@@ -1,0 +1,58 @@
+package L04_ConditionalStatmentsAdvancedExercise;
+
+import java.util.Scanner;
+
+public class P06_OperationsBetweenNumbers {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        int number1 = Integer.parseInt(scanner.nextLine());
+        int number2 = Integer.parseInt(scanner.nextLine());
+        String operation = scanner.nextLine(); // "+", "-", "*", "/", "%"
+        int result = 0;
+        switch (operation) {
+            case "+":
+                result = number1 + number2;
+                if (result % 2 == 0) {
+                    System.out.printf("%d + %d = %d - even", number1, number2, result);
+                } else {
+                    System.out.printf("%d + %d = %d - odd", number1, number2, result);
+                }
+                break;
+            case "-":
+                result = number1 - number2;
+                if (result % 2 == 0) {
+                    System.out.printf("%d - %d = %d - even", number1, number2, result);
+                } else {
+                    System.out.printf("%d - %d = %d - odd", number1, number2, result);
+                }
+                break;
+            case "*":
+                result = number1 * number2;
+                if (result % 2 == 0) {
+                    System.out.printf("%d * %d = %d - even", number1, number2, result);
+                } else {
+                    System.out.printf("%d * %d = %d - odd", number1, number2, result);
+                }
+                break;
+            case "/":
+                if (number2 == 0) {
+                    System.out.printf("Cannot divide %d by zero", number1);
+                } else {
+                    double res = number1 * 1.0 / number2;
+                    System.out.printf("%d / %d = %.2f", number1, number2, res);
+                }
+                break;
+            case "%":
+                if (number2 == 0) {
+                    System.out.printf("Cannot divide %d by zero", number1);
+                } else {
+                    double res = number1 * 1.0 % number2;
+                    System.out.printf("%d %% %d = %.0f", number1, number2, res);
+                }
+                break;
+        }
+    }
+}
